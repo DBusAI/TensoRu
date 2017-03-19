@@ -1,6 +1,7 @@
 ﻿#  TensoRu
-![Screenshot](Tf-cloud.png)
 Документация TensorFlow с небольшими примерами для обучения:
+
+![Screenshot](Tf-cloud.png)
 
 Constant+Value+Tensors.ipynb - работа с константами
 Random+Tensors.ipynb - инициализация рандомных значений
